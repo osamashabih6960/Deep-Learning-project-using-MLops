@@ -1,0 +1,14 @@
+1.conda --version
+conda env list
+conda create -n myenv python=3.10
+conda activate myenv
+
+2.Requirements.txt:-
+  -> ls
+  -> python -m pip install --upgrade pip
+  -> pip install -r requirements.txt
+
+3. Create a projectflow.txt
+  -> template.python
+ -> setup.py-- pip show cnnClassifier
+
